@@ -1,8 +1,8 @@
 # Lucas-Marcal
-
 **`Desenvolvedor Junior`**
 
 Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estudante de Redes de Computadores na Faculdade de Tecnologia Prefeito Hirant Sanazar (Fatec Osasco). Sou um entusiasta na área tecnologia com interesse na área de Cloud Computing.
+    </p>
     </a> 
     <a href="https://github.com/Marcal21?tab=repositories&sort=stargazers">
         <img 
@@ -54,7 +54,6 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
 
@@ -77,3 +76,4 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
   />
 
 </p>
+
