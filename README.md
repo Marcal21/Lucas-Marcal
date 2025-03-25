@@ -78,8 +78,4 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
 </p>
 
 <p 
- <img  
-       align="right"
-       width="80"
-       height="80"   scr="https://github.com/Marcal21/Lucas-Marcal/blob/main/assets%2Fezgif.com-animated-gif-maker.gif">
-</p>
+ <img  https://github.com/Marcal21/Lucas-Marcal/blob/main/assets%2Fezgif.com-animated-gif-maker.gif">
