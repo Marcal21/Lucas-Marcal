@@ -1,7 +1,7 @@
-# Lucas-Marcal
+# Lucas Marcal
 
 <p align="center">
-  <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="80">
+  <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="150">
 </p>
 
 **`Desenvolvedor Junior`**
@@ -53,6 +53,22 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <br/>
 <br/>
