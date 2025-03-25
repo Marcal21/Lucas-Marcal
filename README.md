@@ -3,7 +3,6 @@
   <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="80">
 </p>
 
-
 **`Desenvolvedor Junior`**
 
 Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estudante de Redes de Computadores na Faculdade de Tecnologia Prefeito Hirant Sanazar (Fatec Osasco). Sou um entusiasta na área tecnologia com interesse na área de Cloud Computing.
