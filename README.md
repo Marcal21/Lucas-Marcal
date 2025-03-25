@@ -75,5 +75,7 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcal21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+https://github.com/Marcal21/Lucas-Marcal/blob/main/assets%2Fezgif.com-animated-gif-maker.gif
+
 </p>
- https://github.com/Marcal21/Lucas-Marcal/blob/main/assets%2Fezgif.com-animated-gif-maker.gif
+ 
