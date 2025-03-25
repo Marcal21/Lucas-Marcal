@@ -23,7 +23,7 @@ Me chamo Lucas Marçal dos Santo, tenho 20 anos e resido em São Paulo. Sou estu
             src="https://custom-icon-badges.demolab.com/github/followers/Marcal21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-      <a href="www.linkedin.com/in/lucas-marcal">
+      <a href="www.linkedin.com/in/lucas-marcal" target="blank">
         <img 
             alt="Seguir" 
             title="Meu Perfil no Linkedin" 
