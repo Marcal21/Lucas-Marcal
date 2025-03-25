@@ -1,4 +1,4 @@
-# Lucas-Marcal <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="50" style="margin-left:10px;">
+# Lucas-Marcal <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width=30" style="margin-left:10px;">
 
 
 **`Desenvolvedor Junior`**
