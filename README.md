@@ -1,6 +1,6 @@
 # Lucas-Marcal
 
-<p align="center"
+<p align="center">
   <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="80">
 </p>
 
