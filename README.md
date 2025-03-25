@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511965415546)
  
 <p align="center">
-  <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker.gif" width="150">
+  <img src="https://github.com/Marcal21/Lucas-Marcal/raw/main/assets/ezgif.com-animated-gif-maker(1).gif" width="150">
 </p>
 
 **`Desenvolvedor Junior`**
